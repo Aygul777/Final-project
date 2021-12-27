@@ -1,0 +1,35 @@
+.basket_name{
+    text-align: center;
+    font-size: 40px;
+}
+
+.basket-container{
+
+    text-align: center;
+    justify-content: space-between;
+    background-color: darkgrey;
+
+
+}
+.basket_item {
+
+    display: inline-block;
+    color: #FFFFFF;
+    vertical-align: middle;
+    margin-left: 40px;
+
+
+
+}
+
+.basket_image{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.basket_image img {
+
+
+    width: 30%;
+
+}
